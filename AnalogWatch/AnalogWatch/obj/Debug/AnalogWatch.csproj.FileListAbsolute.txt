@@ -16,3 +16,12 @@ C:\Users\Miško\Desktop\AnalogWatch\AnalogWatch\obj\Debug\AnalogWatch.csproj.Gen
 C:\Users\Miško\Desktop\AnalogWatch\AnalogWatch\obj\Debug\AnalogWatch.csproj.CoreCompileInputs.cache
 C:\Users\Miško\Desktop\AnalogWatch\AnalogWatch\obj\Debug\AnalogWatch.exe
 C:\Users\Miško\Desktop\AnalogWatch\AnalogWatch\obj\Debug\AnalogWatch.pdb
+C:\Users\pigra\Desktop\gitrepository\Ukol-Verzovani\AnalogWatch\AnalogWatch\bin\Debug\AnalogWatch.exe
+C:\Users\pigra\Desktop\gitrepository\Ukol-Verzovani\AnalogWatch\AnalogWatch\bin\Debug\AnalogWatch.pdb
+C:\Users\pigra\Desktop\gitrepository\Ukol-Verzovani\AnalogWatch\AnalogWatch\obj\Debug\AnalogWatch.csprojAssemblyReference.cache
+C:\Users\pigra\Desktop\gitrepository\Ukol-Verzovani\AnalogWatch\AnalogWatch\obj\Debug\AnalogWatch.MainForm.resources
+C:\Users\pigra\Desktop\gitrepository\Ukol-Verzovani\AnalogWatch\AnalogWatch\obj\Debug\AnalogWatch.Properties.Resources.resources
+C:\Users\pigra\Desktop\gitrepository\Ukol-Verzovani\AnalogWatch\AnalogWatch\obj\Debug\AnalogWatch.csproj.GenerateResource.cache
+C:\Users\pigra\Desktop\gitrepository\Ukol-Verzovani\AnalogWatch\AnalogWatch\obj\Debug\AnalogWatch.csproj.CoreCompileInputs.cache
+C:\Users\pigra\Desktop\gitrepository\Ukol-Verzovani\AnalogWatch\AnalogWatch\obj\Debug\AnalogWatch.exe
+C:\Users\pigra\Desktop\gitrepository\Ukol-Verzovani\AnalogWatch\AnalogWatch\obj\Debug\AnalogWatch.pdb

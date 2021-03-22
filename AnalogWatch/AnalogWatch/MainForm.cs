@@ -44,8 +44,8 @@ namespace AnalogWatch
 
 			//Ručičky 1min=6 stupnů, 1s= 6 stupnu , 1h=30 stupnu;
 			g.DrawLine(new Pen(Color.Red,2), middlePoint, CalculateEndpoint((DateTime.Now.Second-15) * 6, 70)); //vteřinová
-			g.DrawLine(new Pen(Color.Aqua,4), middlePoint, CalculateEndpoint((DateTime.Now.Minute-15) * 6, 70)); //minutová
-			g.DrawLine(new Pen(Color.Aqua,4), middlePoint, CalculateEndpoint((DateTime.Now.Hour-15) *30, 50)); //hodinová
+			g.DrawLine(new Pen(Color.Gold,4), middlePoint, CalculateEndpoint((DateTime.Now.Minute-15) * 6, 70)); //minutová
+			g.DrawLine(new Pen(Color.Gold,4), middlePoint, CalculateEndpoint((DateTime.Now.Hour-15) *30, 50)); //hodinová
 
 
 		}
